@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseSeleniumWebdriverDemoProject", "ExerciseSeleniumWebdriverDemoProject\ExerciseSeleniumWebdriverDemoProject.csproj", "{DF479ACA-DEAB-46AB-983E-D82A6D81E85B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandlingFormInput", "HandlingFormInput\HandlingFormInput.csproj", "{69055713-A3D5-413E-8CCB-956058A86588}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithWebTables", "WorkingWithWebTables\WorkingWithWebTables.csproj", "{40D6ED71-3681-4A87-B018-7C643F5D6BCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF479ACA-DEAB-46AB-983E-D82A6D81E85B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF479ACA-DEAB-46AB-983E-D82A6D81E85B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF479ACA-DEAB-46AB-983E-D82A6D81E85B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF479ACA-DEAB-46AB-983E-D82A6D81E85B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69055713-A3D5-413E-8CCB-956058A86588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69055713-A3D5-413E-8CCB-956058A86588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69055713-A3D5-413E-8CCB-956058A86588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69055713-A3D5-413E-8CCB-956058A86588}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40D6ED71-3681-4A87-B018-7C643F5D6BCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40D6ED71-3681-4A87-B018-7C643F5D6BCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40D6ED71-3681-4A87-B018-7C643F5D6BCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40D6ED71-3681-4A87-B018-7C643F5D6BCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7300075D-5B34-4358-9994-40AF3CACAF37}
+	EndGlobalSection
+EndGlobal
